@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""Defines a Rectangle class."""
 8-rectangle.py
 #!/usr/bin/python3
 """Defines a Rectangle class."""
